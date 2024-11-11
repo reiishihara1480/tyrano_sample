@@ -5,7 +5,7 @@
 [wait time=200]
 [freeimage layer="base"]
 
-「タイタニック」[l][r]
+「Titanic」[l][r]
 
 ローズは[l][r]
 
