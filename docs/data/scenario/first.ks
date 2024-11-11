@@ -21,7 +21,7 @@
 
 *tag_search_jack
 
-[bg storage=hip-1366926_1280.jpg time=500]
+[bg storage=ship-1366926_1280.jpg time=500]
 
 ローズは船内を走り回り、ジャックを必死に探した。[l][r]
 やっと見つけたジャックは、三等客室に閉じ込められていた。[l][r]
@@ -35,7 +35,7 @@
 
 *tag_prepare_escape
 
-[bg storage=deck.jpg time=500]
+[bg storage=ship-1366926_1280.jpg time=500]
 
 ローズはデッキに出て、救命ボートの場所を確認した。[l][r]
 周りは騒然としており、混乱する乗客で溢れていた。[l][r]
@@ -50,7 +50,7 @@
 
 *tag_escape_route
 
-[bg storage=lifeboat_area.jpg time=500]
+[bg storage=ship-1366926_1280.jpg time=500]
 
 ローズとジャックはボートへ向かい、なんとか最後の救命ボートに乗ろうとしたが、すでに満員だった。[l][r]
 見張りが二人を止めようとする中、ジャックはローズをボートに乗せ、見送ろうとする。[l][r]
@@ -63,7 +63,7 @@
 
 *tag_reassure_others
 
-[bg storage=panicked_crowd.jpg time=500]
+[bg storage=ship-1366926_1280.jpg time=500]
 
 ローズとジャックは他の乗客に避難の準備を呼びかける。[l][r]
 混乱の中でも必死に助け合う二人に、周囲の人々も勇気づけられた。[l][r]
@@ -79,7 +79,7 @@
 
 *tag_stay_with_jack
 
-[bg storage=sinking_ship.jpg time=500]
+[bg storage=ship-1366926_1280.jpg time=500]
 
 ローズはジャックと共に船に残る決断をする。[l][r]
 二人は船の最上部まで上り、必死に手を繋ぎながら、沈むタイタニックと運命を共にした。[l][r]
@@ -91,7 +91,7 @@
 
 *tag_board_boat
 
-[bg storage=lifeboat_escape.jpg time=500]
+[bg storage=ship-1366926_1280.jpg time=500]
 
 ローズはジャックの言葉に従い、涙ながらにボートに乗り込んだ。[l][r]
 ジャックは船の中に残り、彼女を見送りながら小さく手を振った。[l][r]
@@ -103,7 +103,7 @@
 
 *tag_help_more
 
-[bg storage=courageous_crowd.jpg time=500]
+[bg storage=ship-1366926_1280.jpg time=500]
 
 ローズとジャックは、さらに多くの人々を助けようと尽力した。[l][r]
 勇気ある行動により、二人は船に残る人々の希望となったが、時間は無情にも過ぎていく。[l][r]
@@ -115,7 +115,7 @@
 
 *tag_board_boat_last
 
-[bg storage=last_lifeboat.jpg time=500]
+[bg storage=ship-1366926_1280.jpg time=500]
 
 ローズとジャックはついに最後の救命ボートに滑り込み、凍える夜の海を漂った。[l][r]
 二人は厳しい運命に立ち向かいながらも、互いを信じて未来を夢見た。[r]
