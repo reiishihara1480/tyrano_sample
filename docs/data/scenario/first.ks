@@ -3,6 +3,8 @@
 [wait time=200]
 [freeimage layer="base"]
 
+*start
+
 「タイタニック」[l][r]
 
 ローズは豪華客船タイタニック号に乗り、窮屈な婚約者との生活から逃げ出すことを考えていた。[l][r]
@@ -19,7 +21,7 @@
 
 *tag_search_jack
 
-[bg storage=ship_interior.jpg time=500]
+[bg storage=hip-1366926_1280.jpg time=500]
 
 ローズは船内を走り回り、ジャックを必死に探した。[l][r]
 やっと見つけたジャックは、三等客室に閉じ込められていた。[l][r]
